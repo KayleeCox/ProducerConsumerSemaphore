@@ -1,8 +1,8 @@
 # ProducerConsumerSemaphore
 Demonstrates the producer consumer problem using semaphores and threads
 
-![Screenshot](mainSemaphore.png)
+![Screenshot1](mainSemaphore.PNG)
 
-![Screenshot](fasterfaster.png)
+![Screenshot2](fasterfaster.PNG)
 
-![Screenshot](morebuttons.png)
+![Screenshot3](morebuttons.PNG)
